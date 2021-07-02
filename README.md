@@ -34,6 +34,9 @@
 - スキマ時間でのお小遣い稼ぎ目的での利用  
 
 ## 設計書
+ER図  
+<https://drive.google.com/file/d/1LAZHZfht-QFepCKoKRSlRdRAE3Wz7u2O/view?usp=sharing>
+テーブル定義書
 <https://docs.google.com/spreadsheets/d/1ao0uyytf4LcTP-JWFTgjjywjY2oM71ZSY6pYytTiD9c/edit?usp=sharing>
 
 ## チャレンジ要素一覧
