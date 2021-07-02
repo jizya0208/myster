@@ -4,7 +4,7 @@
 ## サイト概要
 ファッションコーディネートに関する相談や情報の閲覧が出来、新しいコーディネートの発見やユーザ同士の交流が楽しめるSNSサイトです。
 
-### サイトテーマ
+### サイトテーマ  
 - なりたい自分を表現するためのアドバイスが手軽に受けられるサイトを目指します。
 - 幅広い世代から愛されるデザインと、直感的な操作が可能な機能性をコンセプトとします。 
 
@@ -29,15 +29,13 @@
 - 生活シーンやパーソナルに応じたコーディネート相談を気軽に行う目的での利用  
 - ユーザ同士の情報交換や交流の場としての利用  
 
-◆　アドバイザー側
+◆　アドバイザー側  
 - 自社商品PR/集客目的での利用  
 - スキマ時間でのお小遣い稼ぎ目的での利用  
 
 ## 設計書
-ER図  
-<https://drive.google.com/file/d/1LAZHZfht-QFepCKoKRSlRdRAE3Wz7u2O/view?usp=sharing>
-テーブル定義書
-<https://docs.google.com/spreadsheets/d/1ao0uyytf4LcTP-JWFTgjjywjY2oM71ZSY6pYytTiD9c/edit?usp=sharing>
+[ER図](https://drive.google.com/file/d/1LAZHZfht-QFepCKoKRSlRdRAE3Wz7u2O/view?usp=sharing)
+[テーブル定義書](https://docs.google.com/spreadsheets/d/1ao0uyytf4LcTP-JWFTgjjywjY2oM71ZSY6pYytTiD9c/edit?usp=sharing)
 
 ## チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1Ga7DNWsQyM-ucRiI2iPiCzlVQ_wggeVo1R6FtBX-nsU/edit?usp=sharing>
